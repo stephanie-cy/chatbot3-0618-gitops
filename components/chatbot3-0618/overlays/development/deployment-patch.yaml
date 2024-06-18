@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/neworgyangcao/chatbot3-0618:8cf6ba7836e8a2445961688ba0b6ab2a99ff51e6@sha256:f1a7008b89c22c968870e23257bb6148369ccf7f6460f09c9003dd2b6b5f83f2 # use pre-built to bootstrap 
+        - image: quay.io/neworgyangcao/chatbot3-0618:fc7ccd8074be2f803b52a23a6b2df1aad718faf1@sha256:cb73b71805bb4cc2ffa1e9e44966aba8ce6bf9725ea0a4844a753949589bad74 # use pre-built to bootstrap 
           name: app-inference
